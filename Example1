@@ -1,0 +1,14 @@
+<html>
+<body>
+  <h1>GitHub</h1>
+
+  <script>
+    for(var i=1; i<=3; i++) {
+      alert("Rahul "+i+"count")
+    }
+  </script>
+
+  <h1>End </h1>
+
+</body>
+</html>
